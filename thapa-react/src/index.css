@@ -1,0 +1,69 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap'); */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* 
+.Heading{
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-shadow: 0px 2px 4px black; 
+    color: red;
+    margin: 70px;
+    /* font-family: 'Original Surfer', cursive; */
+    /* font-family: 'Coda Caption', sans-serif; */
+/* } */
+/* .img_div{ */
+    /* display:flex;
+    justify-content: center;
+    
+}
+
+.img_div img{
+    width:300px;
+    height:300px;
+
+} */ 
+
+/* .first_div{
+    color: red;
+} */
+/* 
+ /* body{
+    background-color: rgb(0, 255, 255);
+    box-sizing: border-box;
+    margin: 0;
+    padding:0%;
+}  */
+/* 
+div{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cadetblue;
+
+} */
+
+/* h1{
+    padding: 20px 20px ;
+    background-color: rgb(0, 255, 170);
+    color: #ebebeb;
+    border-radius: 20px;
+} */
+
+/* span{
+color: #ebebeb;
+}  */
+
+.cards{
+    display: flex;
+    justify-content: center;
+
+    
+}
